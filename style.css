@@ -1,0 +1,36 @@
+
+body{
+    background-color:#d1edff;
+}
+
+h1{
+    color:rgb(15, 119, 184);
+    font-size:50px;
+    margin :10px;
+    
+}
+p{
+    color:rgb(8, 81, 57);
+    margin:16px;
+}
+
+.box{
+    width:300px;
+    min-height:140px;
+    background-color:#f3f5f7;
+    padding:30px;
+    font-family:cursive;
+    border-radius: 48px;
+    margin: 10% 38%;
+    position: relative;
+
+}
+
+#wave{
+    width:80%;
+    height:800px;
+    background-color: #f3f5f7;
+    margin: 100px 120px;
+    border-radius:43px;
+
+}
