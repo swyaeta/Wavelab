@@ -1,0 +1,25 @@
+h2{
+    font-size:40px;
+    font-family:cursive ;
+    margin: 100px 400px;
+    color:black
+}
+p{
+    color:black;
+    font-size: 17px;
+    font-family:cursive;
+    margin: 10px 100px;
+    width:900px
+
+}
+h3{
+     color:black;
+    font-size: 19px;
+    font-family:cursive;
+    margin: 10px 100px;
+    width:900px
+}
+
+body{
+    background-color:#e3f4ff;
+}

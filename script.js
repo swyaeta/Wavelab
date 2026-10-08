@@ -4,8 +4,10 @@ const ainput = document.getElementById("ainput");
 const finput = document.getElementById("finput");
 const wlinput = document.getElementById("wlinput");
 
+
 canvas.width = canvas.clientWidth;
 canvas.height = canvas.clientHeight;
+
 
 let t = 0;
 let amplitude = 100;
@@ -15,11 +17,13 @@ let frequency = 1;
 let speed = frequency * wavelength;
 let visualWavelength = wavelength * pixelsPerMeter;
 
+
 function drawWave() {
     amplitude = Number(ainput.value);
     frequency = Number(finput.value);
     wavelength = Number (wlinput.value);
-
+    visualWavelength = wavelength * pixelsPerMeter;
+    speed = frequency*wavelength;
     
     w.clearRect(0, 0, canvas.width, canvas.height);
     w.beginPath();
