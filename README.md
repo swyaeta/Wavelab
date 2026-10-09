@@ -9,7 +9,7 @@
 ### top:
 <img width="1771" height="876" alt="Screenshot (1525)" src="https://github.com/user-attachments/assets/73088a95-f9b1-4c1e-a36f-6aacf503ff82" />
 
-###bottom:
+### bottom:
 <img width="1779" height="849" alt="Screenshot (1527)" src="https://github.com/user-attachments/assets/2c42377b-2551-4767-86d0-c850101ddbdd" />
 
 #### There we have amplitude, wavelength, frequency and we can change their values and see the effect on the wave
