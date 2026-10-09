@@ -1,8 +1,8 @@
 # Wavelab
-###I was learning about waves at school and thought, why not create something to visualize them instead of just learning the theory? So, I made this little project!
+### I was learning about waves at school and thought, why not create something to visualize them instead of just learning the theory? So, I made this little project!
 
 ## About:
-###WaveLab is a simple interactive wave simulator where you can experiment with different wave values and see how the wave changes.
+### WaveLab is a simple interactive wave simulator where you can experiment with different wave values and see how the wave changes.
 
 ## Index.page
 
@@ -29,3 +29,5 @@
 .scrpit.js
 .readme.html
 .readme.css
+
+Thanxss for reading this!!!
