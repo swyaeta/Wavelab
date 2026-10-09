@@ -15,7 +15,8 @@
 #### There we have amplitude, wavelength, frequency and we can change their values and see the effect on the wave
 
 ## Onscreen Readme:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ef776698-302e-4059-b0d5-ddb2c8021259" />
+<img width="1781" height="837" alt="Screenshot (1528)" src="https://github.com/user-attachments/assets/1c386571-95ad-48b8-b831-8299e18d1bdf" />
+
 
 ### I have added a onscreen read me so the new user can easily use it
 
