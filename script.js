@@ -40,5 +40,4 @@ function animate(){
     drawWave();
     requestAnimationFrame(animate);
 }
-
 animate();

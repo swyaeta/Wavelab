@@ -1,9 +1,27 @@
+
+/* this is a box to go back to the main page*/
+.gobox{
+    width:80px;
+    height:50px;
+    background-color: #174a80;
+    margin-top:10px;
+    border-radius: 20px;
+    text-align:center;
+    font-size:22px
+}
+/* this is to blend our text inside */
+a{
+    text-decoration: none;
+    color:inherit
+}
+/* this is for the main heading*/
 h2{
     font-size:40px;
     font-family:cursive ;
     margin: 100px 400px;
     color:black
 }
+/* these are for the lines/sentences inside the readme*/
 p{
     color:black;
     font-size: 17px;
@@ -12,6 +30,7 @@ p{
     width:900px
 
 }
+/* this is for the subheading*/
 h3{
      color:black;
     font-size: 19px;
@@ -19,7 +38,7 @@ h3{
     margin: 10px 100px;
     width:900px
 }
-
+/* this to change the bg color of of the page*/
 body{
     background-color:#e3f4ff;
 }
