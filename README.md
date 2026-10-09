@@ -7,7 +7,8 @@
 ## Index.page
 
 ### top:
-<img width="1779" height="849" alt="Screenshot (1527)" src="https://github.com/user-attachments/assets/6851d3f5-28b0-445e-8577-0d1883a9ce61" />
+<img width="1771" height="876" alt="Screenshot (1525)" src="https://github.com/user-attachments/assets/73088a95-f9b1-4c1e-a36f-6aacf503ff82" />
+
 ###bottom:
 <img width="1779" height="849" alt="Screenshot (1527)" src="https://github.com/user-attachments/assets/2c42377b-2551-4767-86d0-c850101ddbdd" />
 
