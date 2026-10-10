@@ -35,4 +35,16 @@ https://swyaeta.github.io/Wavelab/
 .readme.html
 .readme.css
 
-Thanxss for reading this!!!
+## To run locally:
+## How to run locally :)
+
+Wanna try WaveLab on your own computer? Here's how!!
+
+1. Clone the repo:
+2. Open the Wavelab folder in VS Code.
+3. Open `index.html` in your browser or use the Live Server extension in VS Code.
+
+And that's ittt!!! 
+You can now play around with the amplitude, wavelength and frequency and see how the wave changes!!
+
+## Thanxss for reading this!!!
